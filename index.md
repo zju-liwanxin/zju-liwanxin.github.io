@@ -32,6 +32,8 @@ Mail:lixin020507@zju.edu.cn
   * Second prize of the second Knowledge Competition of College of Pharmacy, Zhejiang University
 
 ###Research Experience
+
+
 **Yang Jie's Laboratory, School of Medicine, Zhejiang University-2021.10-**
 
 Working at the intersection of medical and artificial intelligence under the supervision of Professor Prof. Jie Yang, my graduation thesis was "Drug Information Mining on Social media" and I have been working on it.
