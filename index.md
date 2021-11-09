@@ -61,8 +61,7 @@ Traditional Chinese painting
 * Host of Zhejiang University Calligraphy and Painting Contest
 
 **Sports**
-<<<<<<< HEAD
+
+* Third prize of "Three cups" table tennis women's team
 * Third prize of "Three cups" table tennis women's team 
-=======
-* Third prize of "Three cups" table tennis women's team 
->>>>>>> d952b4d8cff777436129c5dab9bede94cad55416
+
