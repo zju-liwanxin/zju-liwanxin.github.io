@@ -32,6 +32,8 @@ Mail:lixin020507@zju.edu.cn
   * Second prize of the second Knowledge Competition of College of Pharmacy, Zhejiang University
 
 ###Research Experience
+
+
 **Yang Jie's Laboratory, School of Medicine, Zhejiang University-2021.10-**
 
 Working at the intersection of medical and artificial intelligence under the supervision of Professor Prof. Jie Yang, my graduation thesis was "Drug Information Mining on Social media" and I have been working on it.
@@ -61,8 +63,5 @@ Traditional Chinese painting
 * Host of Zhejiang University Calligraphy and Painting Contest
 
 **Sports**
-<<<<<<< HEAD
-* Third prize of "Three cups" table tennis women's team 
-=======
-* Third prize of "Three cups" table tennis women's team 
->>>>>>> d952b4d8cff777436129c5dab9bede94cad55416
+
+* Third prize of "Three cups" table tennis women's team
