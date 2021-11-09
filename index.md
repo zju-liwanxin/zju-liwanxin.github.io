@@ -31,7 +31,7 @@ Mail:lixin020507@zju.edu.cn
   * First prize of the first Undergraduate Innovative Drug Design Experimental Competition
   * Second prize of the second Knowledge Competition of College of Pharmacy, Zhejiang University
 
-###Research Experience
+### Research Experience
 
 
 **Yang Jie's Laboratory, School of Medicine, Zhejiang University-2021.10-**
@@ -49,7 +49,7 @@ Mendelian randomization of intestinal flora and its metabolites with colorectal 
 * Research practice and training project of College students in Zhejiang University: Propharmacokinetic study of PQQ, Lushan Yu
 * From synthetic API to efficacy validation, independent complete drug development process, CTD document writing for Edaravone, Haoshu Wu, Hong Yuan, Yongjiang Wu,Huazhou Ying
 
-###Miscellanous
+### Miscellanous
 
 **Certifications**
 * NCRE MS Office excellent grade
@@ -65,3 +65,5 @@ Traditional Chinese painting
 **Sports**
 
 * Third prize of "Three cups" table tennis women's team
+
+
