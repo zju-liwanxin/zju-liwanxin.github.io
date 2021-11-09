@@ -65,5 +65,5 @@ Traditional Chinese painting
 **Sports**
 
 * Third prize of "Three cups" table tennis women's team
-* Third prize of "Three cups" table tennis women's team 
+
 
